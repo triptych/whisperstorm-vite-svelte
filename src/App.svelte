@@ -25,6 +25,8 @@
   <p class="read-the-docs">
     Click on the Vite and Svelte logos to learn more
   </p>
+
+  <a href="pages/test1.html">a link</a>
 </main>
 
 <style>
